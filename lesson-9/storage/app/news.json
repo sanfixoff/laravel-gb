@@ -1,0 +1,51 @@
+{
+    "1": {
+        "id": 1,
+        "title": "Новость 1",
+        "text": "А у нас новость 1 и она очень хорошая про спорт!",
+        "isPrivate": false,
+        "category_id": 1
+    },
+    "2": {
+        "id": 2,
+        "title": "Новость 2",
+        "text": "А тут плохие новости про политику(((",
+        "isPrivate": false,
+        "category_id": 2
+    },
+    "3": {
+        "id": 3,
+        "title": "Новость 3",
+        "text": "Приватная про политику",
+        "isPrivate": true,
+        "category_id": 2
+    },
+    "4": {
+        "title": "11",
+        "text": "22",
+        "isPrivate": false,
+        "category_id": 2,
+        "id": 4
+    },
+    "5": {
+        "title": "44",
+        "text": "44",
+        "isPrivate": false,
+        "category_id": 1,
+        "id": 5
+    },
+    "6": {
+        "title": "44",
+        "text": "44",
+        "isPrivate": false,
+        "category_id": 1,
+        "id": 6
+    },
+    "7": {
+        "title": "ыва",
+        "text": "ыва",
+        "isPrivate": false,
+        "category_id": 1,
+        "id": 7
+    }
+}
